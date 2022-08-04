@@ -12,7 +12,7 @@
           <el-menu-item index="2-1">实验室概况</el-menu-item>
           <el-menu-item index="2-2">实验室主任</el-menu-item>
           <el-menu-item index="2-3">成员</el-menu-item>
-          <el-menu-item index="2-4">毕业生</el-menu-item>
+          <el-menu-item index="2-4">毕业生情况</el-menu-item>
         </el-submenu>
         <el-submenu index="3" class="firstItem">
           <template slot="title">学术科研</template>
